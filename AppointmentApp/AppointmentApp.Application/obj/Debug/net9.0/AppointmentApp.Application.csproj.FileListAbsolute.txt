@@ -1,0 +1,15 @@
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/bin/Debug/net9.0/AppointmentApp.Application.deps.json
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/bin/Debug/net9.0/AppointmentApp.Application.dll
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/bin/Debug/net9.0/AppointmentApp.Application.pdb
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/bin/Debug/net9.0/AppointmentApp.Domain.dll
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/bin/Debug/net9.0/AppointmentApp.Domain.pdb
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/obj/Debug/net9.0/AppointmentApp.Application.csproj.AssemblyReference.cache
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/obj/Debug/net9.0/AppointmentApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/obj/Debug/net9.0/AppointmentApp.Application.AssemblyInfoInputs.cache
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/obj/Debug/net9.0/AppointmentApp.Application.AssemblyInfo.cs
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/obj/Debug/net9.0/AppointmentApp.Application.csproj.CoreCompileInputs.cache
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/obj/Debug/net9.0/Appointm.F1552893.Up2Date
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/obj/Debug/net9.0/AppointmentApp.Application.dll
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/obj/Debug/net9.0/refint/AppointmentApp.Application.dll
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/obj/Debug/net9.0/AppointmentApp.Application.pdb
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Application/obj/Debug/net9.0/ref/AppointmentApp.Application.dll

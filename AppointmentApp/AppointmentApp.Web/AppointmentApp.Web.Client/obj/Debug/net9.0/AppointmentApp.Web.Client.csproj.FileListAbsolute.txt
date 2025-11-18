@@ -1,0 +1,7 @@
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Web/AppointmentApp.Web.Client/obj/Debug/net9.0/AppointmentApp.Web.Client.csproj.AssemblyReference.cache
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Web/AppointmentApp.Web.Client/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Web/AppointmentApp.Web.Client/obj/Debug/net9.0/AppointmentApp.Web.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Web/AppointmentApp.Web.Client/obj/Debug/net9.0/AppointmentApp.Web.Client.AssemblyInfoInputs.cache
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Web/AppointmentApp.Web.Client/obj/Debug/net9.0/AppointmentApp.Web.Client.AssemblyInfo.cs
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Web/AppointmentApp.Web.Client/obj/Debug/net9.0/AppointmentApp.Web.Client.csproj.CoreCompileInputs.cache
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Web/AppointmentApp.Web.Client/obj/Debug/net9.0/AppointmentApp.Web.Client.MvcApplicationPartsAssemblyInfo.cache

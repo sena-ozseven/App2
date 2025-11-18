@@ -1,0 +1,17 @@
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/bin/Debug/net9.0/AppointmentApp.Infrastructure.deps.json
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/bin/Debug/net9.0/AppointmentApp.Infrastructure.dll
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/bin/Debug/net9.0/AppointmentApp.Infrastructure.pdb
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/bin/Debug/net9.0/AppointmentApp.Application.dll
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/bin/Debug/net9.0/AppointmentApp.Domain.dll
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/bin/Debug/net9.0/AppointmentApp.Application.pdb
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/bin/Debug/net9.0/AppointmentApp.Domain.pdb
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/obj/Debug/net9.0/AppointmentApp.Infrastructure.csproj.AssemblyReference.cache
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/obj/Debug/net9.0/AppointmentApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/obj/Debug/net9.0/AppointmentApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/obj/Debug/net9.0/AppointmentApp.Infrastructure.AssemblyInfo.cs
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/obj/Debug/net9.0/AppointmentApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/obj/Debug/net9.0/Appointm.3CE42AFF.Up2Date
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/obj/Debug/net9.0/AppointmentApp.Infrastructure.dll
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/obj/Debug/net9.0/refint/AppointmentApp.Infrastructure.dll
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/obj/Debug/net9.0/AppointmentApp.Infrastructure.pdb
+/Users/gulsenaozseven/AppointmentApp/AppointmentApp.Infrastructure/obj/Debug/net9.0/ref/AppointmentApp.Infrastructure.dll
